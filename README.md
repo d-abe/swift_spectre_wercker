@@ -1,0 +1,2 @@
+# swift_spectre_wercker
+SwiftのBDDライブラリ Spectre をwerckerで実行してみるテスト
